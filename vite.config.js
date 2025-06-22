@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/mojito-landing-page/',
+  base: '/mojito_landingpage/',
 })
