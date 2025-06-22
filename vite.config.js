@@ -7,9 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/mojito_landingpage/',
-  build: {
-    assetsDir: 'assets',
-  },
-  publicDir: 'public',
+  base: './',
 })
