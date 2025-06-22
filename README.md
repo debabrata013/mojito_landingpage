@@ -43,7 +43,7 @@ A modern, responsive landing page for **Mojito Adda**, Delhi's premier cocktail 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:debabrata013/mojito_landingpage.git
    cd mojito-landing-page
    ```
 
