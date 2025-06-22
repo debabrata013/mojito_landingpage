@@ -8,4 +8,8 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/mojito_landingpage/',
+  build: {
+    assetsDir: 'assets',
+  },
+  publicDir: 'public',
 })
